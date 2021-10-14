@@ -2,7 +2,7 @@
 
 Forked from [Reid Vandewiele](https://github.com/pdxcat/puppet-module-autofs)
 
-[![Build Status](https://travis-ci.com/jkroepke/puppet-module-autofs.png?branch=master)](https://travis-ci.com/jkroepke/puppet-module-autofs)
+[![Build Status](https://app.travis-ci.com/jkroepke/puppet-module-autofs.svg?branch=main)](https://app.travis-ci.com/jkroepke/puppet-module-autofs)
 [![Puppet Forge](https://img.shields.io/puppetforge/v/jkroepke/autofs.svg)](https://forge.puppetlabs.com/jkroepke/autofs)
 [![Puppet Forge - downloads](https://img.shields.io/puppetforge/dt/jkroepke/autofs.svg)](https://forge.puppetlabs.com/jkroepke/autofs)
 [![Puppet Forge - endorsement](https://img.shields.io/puppetforge/e/jkroepke/autofs.svg)](https://forge.puppetlabs.com/jkroepke/autofs)
