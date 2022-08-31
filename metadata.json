@@ -1,20 +1,20 @@
 {
-  "name": "jkroepke-autofs",
-  "version": "6.0.0",
+  "name": "tca_puppet_autofs",
+  "version": "6.0.1",
   "author": "Jan-Otto Kröpke",
   "summary": "Puppet module for autofs",
   "license": "Apache-2.0",
-  "source": "https://github.com/jkroepke/puppet-module-autofs",
-  "project_page": "https://github.com/jkroepke/puppet-module-autofs",
-  "issues_url": "https://github.com/jkroepke/puppet-module-autofs/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet_autofs",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_autofs",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_autofs/issues",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 4.0.0 < 8.0.0"
+      "version_requirement": ">= 4.0.0"
     },
     {
       "name": "puppetlabs/concat",
-      "version_requirement": ">= 4.0.0 < 8.0.0"
+      "version_requirement": ">= 4.0.0"
     }
   ],
   "operatingsystem_support": [
@@ -82,7 +82,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 4.10.0 < 8.0.0"
+      "version_requirement": ">= 4.10.0"
     }
   ],
   "tags": [
