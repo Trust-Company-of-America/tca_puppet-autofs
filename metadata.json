@@ -1,12 +1,12 @@
 {
-  "name": "tca_puppet_autofs",
-  "version": "6.0.1",
+  "name": "tca_puppet-autofs",
+  "version": "6.0.2",
   "author": "Jan-Otto Kröpke",
   "summary": "Puppet module for autofs",
   "license": "Apache-2.0",
-  "source": "https://github.com/Trust-Company-of-America/tca_puppet_autofs",
-  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet_autofs",
-  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet_autofs/issues",
+  "source": "https://github.com/Trust-Company-of-America/tca_puppet-autofs",
+  "project_page": "https://github.com/Trust-Company-of-America/tca_puppet-autofs",
+  "issues_url": "https://github.com/Trust-Company-of-America/tca_puppet-autofs/issues",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
